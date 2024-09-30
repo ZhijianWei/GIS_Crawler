@@ -1,6 +1,6 @@
 
 # <div align="center">自动抓取web地理位置名称和经纬度信息
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href=[READMEzh.md](READMEzh.md)>简体中文</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/GIS_Crawler/blob/main/README.md">English</a> | <a href="https://github.com/ZhijianWei/GIS_Crawler/blob/main/READMEzh.md">简体中文</a></b></div>
 
 
 #### 作者：魏智健 (南京农业大学) ，如果有任何问题，请随时联系我``18151936092@163.com``📧
