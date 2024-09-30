@@ -1,9 +1,8 @@
-Sure, here's the README translated into English:
 
 # <div align="center">Automatically scrape web geographic location names and latitude/longitude information
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href=[READMEzh.md](READMEzh.md)>简体中文</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/GIS_Crawler/blob/main/README.md">English</a> | <a href="https://github.com/ZhijianWei/GIS_Crawler/blob/main/READMEzh.md">简体中文</a></b></div>
 
-#### Author: Wei Zhijian (Nanjing Agricultural University), if you have any questions, please feel free to contact me at ``18151936092@163.com``📧
+#### Author: Zhijian Wei (Nanjing Agricultural University), if you have any questions, please feel free to contact me at ``18151936092@163.com``📧
 **If this set of algorithms helps you, you can give this project a Star ⭐, or recommend it to your friends, thank you!😊**
 
 ## 💻Introduction
